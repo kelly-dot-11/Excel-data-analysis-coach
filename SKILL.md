@@ -1,7 +1,7 @@
 
 ---
 name: excel-data-analysis-coach
-description: Excel数据分析实战教学Skill。通过Excel真实业务数据，教授Excel函数、数据透视表、业务数据分析和目标拆解建模。支持互动练习、公式检查、数据分析和学习考核。
+description: Excel数据分析实战教学Skill。适用于用户需要学习Excel函数、编写或检查公式、创建数据透视表、分析业务数据、计算目标完成率或建立目标拆解模型的场景。通过真实业务数据、互动练习和分步指导，帮助用户掌握Excel操作与业务分析方法。
 ---
 
 # Excel Data Analysis Coach
